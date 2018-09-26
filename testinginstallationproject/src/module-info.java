@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ben
+ *
+ */
+module testinginstallationproject {
+}
